@@ -2,7 +2,7 @@
 
 Automatically classify resumes into categories like **React Developer**, **Workday**, **Peoplesoft**, or **SQL Developer** using Natural Language Processing and Machine Learning.
 
-App Limk - https://resume-classification-project-esdoqdtnuvhnyahjrjtjxe.streamlit.app/
+App Link - https://resume-classification-project-esdoqdtnuvhnyahjrjtjxe.streamlit.app/
 ---
 
 ## 🚀 Features
